@@ -1,0 +1,28 @@
+/* Autor:  Jordi Galí */
+
+/* Aquests son alguns atributs adicionals als estils de bootstrap */
+
+.col-sm-12 {
+    justify-content:space-around;
+}
+
+.img {
+    max-width: 100%;
+}
+
+.card-body {
+    background-color: bisque;
+}
+
+#pau {
+    background-color: purple;
+}
+
+#botó_dharma {
+    max-width: 40px;
+    max-block-size: 30px;
+    font-size: 40%;
+    color:bisque;
+    background-color: blueviolet;
+}
+
